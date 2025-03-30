@@ -21,7 +21,7 @@ A comprehensive utility for scanning Modbus networks to discover and analyze con
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/modbustcp-scanner.git
+   git clone https://github.com/T-6891/modbustcp-scanner.git
    cd modbustcp-scanner
    ```
 
