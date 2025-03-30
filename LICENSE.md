@@ -1,26 +1,26 @@
-# Лицензия Creative Commons С указанием авторства-Некоммерческая 4.0 Международная
+# Creative Commons Attribution-NonCommercial 4.0 International License
 
-Данное произведение предоставляется на условиях [международной лицензии Creative Commons С указанием авторства-Некоммерческая 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.ru).
+This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-## Вы можете свободно:
+## You are free to:
 
-- **Делиться** — копировать и распространять материал на любом носителе и в любом формате
-- **Адаптировать** — ремикшировать, трансформировать и создавать новые произведения на основе данного материала
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
 
-Лицензиар не может отозвать эти разрешения, пока вы следуете условиям лицензии.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-## При соблюдении следующих условий:
+## Under the following terms:
 
-- **Атрибуция** — Вы должны обеспечить соответствующее указание авторства, предоставить ссылку на лицензию и обозначить изменения, если таковые были сделаны. Вы можете это делать любым разумным способом, но не таким, который подразумевал бы, что лицензиар одобряет вас или ваш способ использования произведения.
-- **Некоммерческое использование** — Вы не можете использовать материал в коммерческих целях.
-- **Без дополнительных ограничений** — Вы не можете применять юридические ограничения или технологические меры, которые юридически ограничивают других от действий, разрешенных лицензией.
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-## Примечания:
+## Notices:
 
-Вы не обязаны соблюдать условия лицензии в отношении тех элементов материала, которые являются общественным достоянием, или когда ваше использование разрешено применимым исключением или ограничением.
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 
-Никаких гарантий не предоставляется. Лицензия может не предоставлять всех разрешений, необходимых для вашего конкретного использования. Например, другие права, такие как право на публичность, неприкосновенность частной жизни или моральные права, могут ограничивать использование материала.
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 ---
 
-Полный юридический текст лицензии доступен по адресу: https://creativecommons.org/licenses/by-nc/4.0/legalcode.ru
+The full legal text of the license is available at: https://creativecommons.org/licenses/by-nc/4.0/legalcode
